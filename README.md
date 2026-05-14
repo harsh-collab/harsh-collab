@@ -5,7 +5,6 @@ A passionate Full Stack Developer and MCA student with hands-on experience in bu
 
 
 # 🌐 Socials:
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-saraswat-436b29219/)
 
