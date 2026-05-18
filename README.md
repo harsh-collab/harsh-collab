@@ -41,9 +41,9 @@ A passionate Full Stack Developer and MCA student with hands-on experience in bu
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-collab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-collab&show_icons=true&theme=tokyonight" />
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harsh-collab&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=harsh-collab&theme=tokyonight" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-collab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-collab&layout=compact&theme=tokyonight" />
 </p>
