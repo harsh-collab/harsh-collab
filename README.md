@@ -47,3 +47,10 @@ A passionate Full Stack Developer and MCA student with hands-on experience in bu
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-collab&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
