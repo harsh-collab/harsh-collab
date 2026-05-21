@@ -38,18 +38,6 @@ A passionate Full Stack Developer and MCA student with hands-on experience in bu
 
 
 
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh-collab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-collab&theme=tokyonight"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-collab&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-
 # 🏆 GitHub Trophies
 
 <p align="center">
